@@ -18,7 +18,7 @@ public class Employee {
     private String firstName;
 
     @Column
-    private Long lastName;
+    private String lastName;
 
 
 
